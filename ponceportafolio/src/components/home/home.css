@@ -13,15 +13,25 @@
     display: grid;
     grid-template-columns: max-content;
     row-gap: 1rem;
+    border-radius: 10px;
 }
 
 .home__social-icon{
+    text-align: center;
     font-size: 1.25rem;
     color: var(--title-color);
+    height: 35px;
+    width: 35px;
+    border-radius: 5px;
 }
 
 .home__social-icon:hover{
-    color: var(--title-color);
+    color: white;
+}
+
+.home__social-icon:hover{
+    background-color: var(--title-color);
+    transition: 0.5s;
 }
 
 .home__title {
