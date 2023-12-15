@@ -44,7 +44,74 @@ const Qualification = () => {
 
                     <div className='qualification__data'>
                         <div>
-                            <h3 className='qualification__title'>Web Design</h3>
+                            <h3 className='qualification__title'>C, C++ Development</h3>
+                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
+                            <div className='qualification__calender'>
+                                <i className='uil uil-calendar-alt'></i>
+                                2019 - 2021
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className='qualification__rounder'></span>
+                            <span className='qualification__line'></span>
+                        </div>
+                    </div>
+
+                    <div className='qualification__data'>
+                        <div></div>
+
+                        <div>
+                            <span className='qualification__rounder'></span>
+                            <span className='qualification__line'></span>
+                        </div>
+
+                        <div>
+                            <h3 className='qualification__title'>Neural Networks IA</h3>
+                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
+                            <div className='qualification__calender'>
+                                <i className='uil uil-calendar-alt'></i>
+                                2021 - 2022
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div className='qualification__data'>
+                        <div>
+                            <h3 className='qualification__title'>UI/UX Experience</h3>
+                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
+                            <div className='qualification__calender'>
+                                <i className='uil uil-calendar-alt'></i>
+                                2021 -Present
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className='qualification__rounder'></span>
+                            <span className='qualification__line'></span>
+                        </div>
+                    </div>
+
+                    <div className='qualification__data'>
+                        <div>
+                            <h3 className='qualification__title'>Full-Stack Developer</h3>
+                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
+                            <div className='qualification__calender'>
+                                <i className='uil uil-calendar-alt'></i>
+                                2021 -Present
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className='qualification__rounder'></span>
+                            <span className='qualification__line'></span>
+                        </div>
+                    </div>
+
+                    <div className='qualification__data'>
+                        <div>
+                            <h3 className='qualification__title'>Vue Development</h3>
                             <span className='qualification__subtitle'>Universidad de Guanajuato</span>
                             <div className='qualification__calender'>
                                 <i className='uil uil-calendar-alt'></i>
@@ -67,46 +134,11 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className='qualification__title'>Art Director</h3>
+                            <h3 className='qualification__title'>React Development</h3>
                             <span className='qualification__subtitle'>Universidad de Guanajuato</span>
                             <div className='qualification__calender'>
                                 <i className='uil uil-calendar-alt'></i>
-                                2021 -Present
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div className='qualification__data'>
-                        <div>
-                            <h3 className='qualification__title'>Web Development</h3>
-                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
-                            <div className='qualification__calender'>
-                                <i className='uil uil-calendar-alt'></i>
-                                2021 -Present
-                            </div>
-                        </div>
-
-                        <div>
-                            <span className='qualification__rounder'></span>
-                            <span className='qualification__line'></span>
-                        </div>
-                    </div>
-
-                    <div className='qualification__data'>
-                        <div></div>
-
-                        <div>
-                            <span className='qualification__rounder'></span>
-                            <span className='qualification__line'></span>
-                        </div>
-
-                        <div>
-                            <h3 className='qualification__title'>Ux Experience</h3>
-                            <span className='qualification__subtitle'>Universidad de Guanajuato</span>
-                            <div className='qualification__calender'>
-                                <i className='uil uil-calendar-alt'></i>
-                                2021 -Present
+                                2022 - Present
                             </div>
                         </div>
 
