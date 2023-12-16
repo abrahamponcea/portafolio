@@ -14,7 +14,7 @@ export const projectData = [
     {
         id: 2,
         image: Work2,
-        title: 'App movil',
+        title: 'Restaurant Order Management',
         category: 'app',
     },
     {
