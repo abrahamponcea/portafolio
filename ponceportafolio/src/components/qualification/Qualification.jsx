@@ -155,11 +155,11 @@ const Qualification = () => {
 
                     <div className='qualification__data'>
                         <div>
-                            <h3 className='qualification__title'>Product Designer</h3>
-                            <span className='qualification__subtitle'>Microsoft</span>
+                            <h3 className='qualification__title'>React Developer</h3>
+                            <span className='qualification__subtitle'>H. Ayuntamiento Municipal Salamanca</span>
                             <div className='qualification__calendar'>
                                 <i className='uil uil-calender-alt'></i>
-                                2021 -Present
+                                2023 -Present
                             </div>
                         </div>
 
@@ -178,11 +178,11 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className='qualification__title'>Ux Designer</h3>
-                            <span className='qualification__subtitle'>Apple Inc</span>
+                            <h3 className='qualification__title'>Design Asistant</h3>
+                            <span className='qualification__subtitle'>Corporativo Guerrero Velázquez - Hotel el Relicario</span>
                             <div className='qualification__calendar'>
                                 <i className='uil uil-calender-alt'></i>
-                                2021 -Present
+                                2021 - 2023
                             </div>
                         </div>
 

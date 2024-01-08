@@ -1,24 +1,28 @@
 import React from 'react'
 import './about.css'
 import AboutImg from '../../assets/about2-100.jpg'
-import CV from '../../assets/CV_ABRAHAM_PONCE_EN.pdf'
+import CV_EN from '../../assets/CV_ABRAHAM_PONCE_EN.pdf'
+import CV_ES from '../../assets/CV_ABRAHAM_PONCE_A_ES.pdf'
 import Info from './Info'
 
 const About = () => {
   return (
     <section className='about section' id='about'>
-        <h2 className='section_title'>About Me</h2>
-        <span className='section_subtitle'>My introduction</span>
+        <h2 className='section_title'>Acerca de Mi</h2>
+        <span className='section_subtitle'>Mi introducción</span>
         <div className='about__container container grid'>
             <img src={AboutImg} alt="" className='about__img'/>
             
             <div className='about__data'>
                 <Info />
-                <p className='about__description'>Frontend developer,
-                I create web pages with UI / UX user interface, I have months of experience
-                and many clients are happy with the projects carried out.</p>
+                <p className='about__description'>Con formación en el desarrollo de software,
+                  Desarrollo Web y Diseño de Bases de Datos. 
+                  Mi especialización en frameworks de alto impacto como React Js, Vue y Express me ha permitido 
+                  forjar una alta experiencia en el mantenimiento, diseño e implementación de Páginas y Aplicaciones 
+                  Web Dinámicas y Escalables.
+                </p>
 
-                <a download='' href={CV} className='button button--flex'>
+                <a download='' href={CV_ES} className='button button--flex'>
                     Download CV
                     <svg
                 class="button__icon"
