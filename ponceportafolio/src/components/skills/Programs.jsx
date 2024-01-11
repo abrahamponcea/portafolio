@@ -3,7 +3,7 @@ import React from 'react'
 const Programs = () => {
   return (
     <div className="skills__content__programs">
-      <h3 className="skills__title">Programs</h3>
+      <h3 className="skills__title">Programas</h3>
 
       <div className="skills__box">
         <div className="skills__group">
@@ -11,15 +11,23 @@ const Programs = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Figma</h3>
-              <span className="skills__level">Advaced</span>
+              <span className="skills__level">Avanzado</span>
             </div>
           </div>
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Advanced</span>
+              <h3 className="skills__name">Git/GitLab</h3>
+              <span className="skills__level">Avanzado</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">VSCode</h3>
+              <span className="skills__level">Avanzado</span>
             </div>
           </div>
 
@@ -28,14 +36,6 @@ const Programs = () => {
             <div>
               <h3 className="skills__name">Virtual Box</h3>
               <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Unix/Bash</h3>
-              <span className="skills__level">Intermediated</span>
             </div>
           </div>
 
