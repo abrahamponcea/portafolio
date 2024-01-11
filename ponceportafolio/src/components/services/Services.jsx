@@ -67,7 +67,7 @@ const Services = () => {
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    Posisionamiento de marca
+                                    Posicionamiento de marca
                                 </p>
                             </li>
 
