@@ -21,9 +21,11 @@
 }
 
 .work__container{
-    grid-template-columns: repeat(2, max-content);
+    display: grid;
+    grid-template-columns: repeat(3, max-content);
     gap: 3rem;
     justify-content: center;
+    align-items: center;
 }
 
 .work__card{

@@ -11,16 +11,16 @@ const Frontend = () => {
                 <div className='skills__data'>
                   <i class='bx bx-badge-check'></i>
                   <div>
-                    <h3 className='skills__name'>HTML</h3>
-                    <span className='skills__level'>Advanced</span>
+                    <h3 className='skills__name'>React</h3>
+                    <span className='skills__level'>Avanzado</span>
                   </div>
                 </div>
 
                 <div className='skills__data'>
                   <i class='bx bx-badge-check'></i>
                   <div>
-                    <h3 className='skills__name'>CSS</h3>
-                    <span className='skills__level'>Advanced</span>
+                    <h3 className='skills__name'>Vue</h3>
+                    <span className='skills__level'>Avanzado</span>
                   </div>
                 </div>
 
@@ -28,7 +28,15 @@ const Frontend = () => {
                   <i class='bx bx-badge-check'></i>
                   <div>
                     <h3 className='skills__name'>JavaScript</h3>
-                    <span className='skills__level'>Advanced</span>
+                    <span className='skills__level'>Avanzado</span>
+                  </div>
+                </div>
+
+                <div className='skills__data'>
+                  <i class='bx bx-badge-check'></i>
+                  <div>
+                    <h3 className='skills__name'>Redux</h3>
+                    <span className='skills__level'>Intermedio</span>
                   </div>
                 </div>
 
@@ -39,16 +47,32 @@ const Frontend = () => {
                 <div className='skills__data'>
                   <i class='bx bx-badge-check'></i>
                   <div>
-                    <h3 className='skills__name'>Vue</h3>
-                    <span className='skills__level'>Intermediate</span>
+                    <h3 className='skills__name'>HTML</h3>
+                    <span className='skills__level'>Avanzado</span>
                   </div>
                 </div>
 
                 <div className='skills__data'>
                   <i class='bx bx-badge-check'></i>
                   <div>
-                    <h3 className='skills__name'>React</h3>
-                    <span className='skills__level'>Intermediate</span>
+                    <h3 className='skills__name'>CSS</h3>
+                    <span className='skills__level'>Avanzado</span>
+                  </div>
+                </div>
+
+                <div className='skills__data'>
+                  <i class='bx bx-badge-check'></i>
+                  <div>
+                    <h3 className='skills__name'>Material UI</h3>
+                    <span className='skills__level'>Avanzado</span>
+                  </div>
+                </div>
+
+                <div className='skills__data'>
+                  <i class='bx bx-badge-check'></i>
+                  <div>
+                    <h3 className='skills__name'>Axios</h3>
+                    <span className='skills__level'>Avanzado</span>
                   </div>
                 </div>
 

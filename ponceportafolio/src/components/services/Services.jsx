@@ -10,21 +10,21 @@ const Services = () => {
 
   return (
     <section className='services section' id='services'>
-        <h2 className='section_title'>Services</h2>
-        <span className='section_subtitle'>What I offer</span>
+        <h2 className='section_title'>Servicios</h2>
+        <span className='section_subtitle'>¿Qué ofrezco como profesional?</span>
 
         <div className='services__container container grid'>
             <div className='services__content'>
                 <div>
                     <i className='uil uil-web-grid services__icon'></i>
                     <h3 className='services__title'>
-                        Product <br/>Designer
+                        Diseño <br/>de Producto
                     </h3>
                 </div>
 
                 <span className='services__button' onClick={() => {
                     toggleTab(1)}}>
-                    View More<i
+                    Ver Mas<i
                 className='uil uil-arrow-right 
                 services__button-icon'></i></span>
 
@@ -33,18 +33,17 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className='uil uil-times
                         services__modal-close'></i>
 
-                        <h3 className='services__modal-title'>Product Designer</h3>
-                        <p className='services__modal-description'>Service 
-                        with more than 3 years of experience. 
-                        Proving quality work to clients and
-                        companies</p>
+                        <h3 className='services__modal-title'>Diseño de Producto</h3>
+                        <p className='services__modal-description'> 
+                        Con mas de 2 años de experiencia diseñando, posters, videos, logotipos de marca, branding 
+                        y experiencia gráfica</p>
                         <ul className='services__modal-services grid'>
 
                             <li className='services__modal-service'>
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    Desarrollo de diseño de interfaz UI/UX
                                 </p>
                             </li>
 
@@ -52,7 +51,7 @@ const Services = () => {
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    Web page development.
+                                    Maquetado de prototipos con figma
                                 </p>
                             </li>
 
@@ -60,7 +59,7 @@ const Services = () => {
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I create ux element interactions.
+                                    Creación de componentes de reciclaje UX
                                 </p>
                             </li>
 
@@ -68,7 +67,7 @@ const Services = () => {
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I position your company brand.
+                                    Posicionamiento de marca
                                 </p>
                             </li>
 
@@ -76,7 +75,7 @@ const Services = () => {
                                 <i className='uil uil-check-circle
                                 services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    Design and mockups of products for companies.
+                                    Diseño de mockups de producto.
                                 </p>
                             </li>
 

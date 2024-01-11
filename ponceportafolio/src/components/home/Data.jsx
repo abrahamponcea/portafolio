@@ -54,13 +54,13 @@ const Data = () => {
                   ></path>
             </svg>
         </h1>
-        <h3 className='home__subtitle'>Front-end developer</h3>
-        <p className='home__description'>I'm creative front-end developer
-        based in Guanajuato Mexico, and I'm very passionate and dedicated to my
-        work.
+        <h3 className='home__subtitle'>Desarrollador Frontend</h3>
+        <p className='home__description'>
+        Hola! Soy un desarrollador web creativo, dedicado y apasionado por mi profesión. 
+        Soy originario de un pueblito de Guanajuato llamado Dolores Hidalgo.
         </p>
         <a href='#contact' className='button button--flex'>
-            Say Hello
+            Di Hola!
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

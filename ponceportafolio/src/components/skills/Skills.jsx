@@ -8,8 +8,8 @@ import Programs from './Programs'
 const Skills = () => {
   return (
     <section className='skills section' id='skills'>
-        <h2 className='section_title'>Skills</h2>
-        <span className='section_subtitle'>My technical level</span>
+        <h2 className='section_title'>Habilidades</h2>
+        <span className='section_subtitle'>Mi Nivel Técnico</span>
         <div className='skills__container container grid'>
             <Frontend/>
             <Backend/>

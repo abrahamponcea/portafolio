@@ -11,7 +11,7 @@ import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Scrollup from "./components/scrollup/Scrollup";
 import Work from "./components/work/Work";
-
+import { RouterProvider, Routes } from "react-router-dom";
 function App() {
 
     return (
